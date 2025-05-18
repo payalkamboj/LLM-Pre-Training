@@ -10,6 +10,6 @@ This repository contains my implementation of a Large Language Model (LLM) from 
 
 5) This implementation is educational and optimized for clarity, not performance.
 
-Based on the book “LLMs from Scratch” by @rasbt
+Based on the book “Build Large Language Model (from Scratch)” by Sebastian Raschka.
 
 Extendable to larger datasets, distributed training, and inference optimizations.
